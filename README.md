@@ -12,8 +12,7 @@
   <img align="center" alt="Lilian-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Lilian-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Lilian-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Lilian-pic" height="150" style="border-radius:50px;" src="https://scontent.fssa7-1.fna.fbcdn.net/v/t39.30808-6/322489838_1553829721798846_2604945427892872250_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeGXPrsT9nlhNGHwDJcScdL7Ya5tmXyNkfhhrm2ZfI2R-HD9JWTbwLPmk3YwpuU69NZIuetkejIMTKE1qbdXgMQa&_nc_ohc=a08Dp1lWxLkAX9MxqWE&_nc_ht=scontent.fssa7-1.fna&oh=00_AfA8dcNzeAx9gRr-G7i9PI8dS__s8nKnE5Z_2ClU_l2TOQ&oe=63B1FA13">
-</div>
+ 
   
   ##
  
