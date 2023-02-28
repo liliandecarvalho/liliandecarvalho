@@ -1,4 +1,4 @@
-## Oiii eu sou a Lilian Carvalho, desenvolvedora full stack!
+## Oiii eu sou a Lilian Carvalho, desenvolvedora back-end!
 
 <div align="center">
   <a href="https://github.com/liliandecarvalho">
